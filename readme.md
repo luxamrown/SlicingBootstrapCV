@@ -6,4 +6,4 @@ Slicing to HTML + CSS Bootstrap
 
 ## Original :
 
-<img href="https://enigmacamp.com" src="./assets/resume-screenshot.png" >s
+<img href="https://enigmacamp.com" src="./assets/resume-screenshot.png">
