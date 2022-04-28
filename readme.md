@@ -2,7 +2,8 @@ Slicing to HTML + CSS Bootstrap
 
 ## Result :
 
-![screely-1651078596571](https://user-images.githubusercontent.com/63460549/165579392-b6bdb83b-273d-4b0f-aa8b-62bcaf19a476.png)
+![screely-1651113117923](https://user-images.githubusercontent.com/63460549/165664851-e5457433-f050-45aa-8b8d-7d5c0c787d37.png)
+
 
 ## Original :
 
